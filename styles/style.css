@@ -1,0 +1,39 @@
+body {
+    /* font-family: 'Fuggles', cursive; */
+    font-family: 'Inter', sans-serif;
+    /* font-family: 'Libre Baskerville', serif;
+font-family: 'Lumanosimo', cursive;
+font-family: 'Poppins', sans-serif; */
+
+}
+
+.ul-style li {
+    padding-left: 90px;
+}
+
+.text-color {
+    color: #F26B50;
+}
+
+.second-bg {
+    background: rgba(84, 84, 84, 0.46);
+}
+
+.main-color {
+    background-color: #222222;
+}
+
+.link-style a {
+    color: white;
+    background-color: #F26B50;
+    padding: 8px;
+    margin: 0 10px;
+    border-radius: 50%;
+    
+}
+
+.link-style a:hover {
+    background-color: silver;
+    color: red;
+    transition: 0.5s;
+}
